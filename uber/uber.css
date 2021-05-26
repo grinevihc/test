@@ -1,0 +1,88 @@
+
+.fix {
+    background-color: rgb(248, 248, 245);
+    position: sticky;
+    top: 0;
+}
+.header {
+ display: flex;
+ justify-content: space-between;
+ 
+}
+
+
+
+.btn-in { 
+    display: flex;    
+}
+.btn {
+    height: 30px;
+    width: 60px;
+    margin: 20px;
+}
+
+.page {
+    max-width: 1124px;
+    background-color: #F2F2F2;
+    
+}
+
+.searh {
+    margin: 50px 0 0 100px;
+}
+.line {
+    margin: 10px 100px 50px 100px;
+    color: cornflowerblue;
+}
+.card-group {
+    display: flex;
+    justify-content: space-between;
+}
+.card {
+    margin: 20px;
+    width: 308px;
+    height: 366px;
+}
+.card-img-top {
+    width: 318px;
+    height: 256px;
+}
+.footer {
+    background-color: #262626;
+} 
+
+.footer-2 {
+ color: white;
+}
+.footer-3 {
+ color: white;
+}
+.white-logo {
+    margin: 56px 0 40px 82px;
+}
+.footer-trio {
+    display: flex;
+    justify-content: space-around;
+}
+.select {
+    margin: 32px 0 0 0;
+    width: 227px;
+    height: 40px;
+    background: #3B3B3B;
+    color: white;
+}
+.social {
+    margin: 33px 0 0 81px;
+}
+.footer-img {
+    display: flex;
+    justify-content: space-around
+    
+    
+}
+.last {
+    color: thistle;
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+}
